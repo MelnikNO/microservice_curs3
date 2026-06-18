@@ -1,21 +1,34 @@
-# microservice_curs3
+# Курсовая работа 3 курс
 
 # Микросервисная архитектура Telegram-бота и веб-лендинга
+
+[Документ по курсовой работе](https://github.com/MelnikNO/applied-information-technologies3/blob/main/coursework_microservice/Мельник%20Н.О.%203к%20ИВТ%2C%20Курсовая%20работа.pdf)
+
+[Презентация](https://github.com/MelnikNO/applied-information-technologies3/blob/main/coursework_microservice/Мельник%20Н.О.%203к%20ИВТ%2C%20Курсовая%20работа%20Презентация.pptx)
+
+[Скринкаст](https://drive.google.com/file/d/1p3Shljt_1sAiJRijsno95XrKDy3Al46y/view?usp=drive_link)
+
+## Авторы
+
+Мельник Наталья, студент 3 курса ИВТ, группы 1.2
+
+## Описание
 
 [![Telegram Bot](https://img.shields.io/badge/Telegram-@galaxy_milk_bot-blue.svg)](https://t.me/galaxy_milk_bot)
 [![Website](https://img.shields.io/badge/Website-vebfortgbot.melnikno.bizml.ru-green.svg)](https://vebfortgbot.melnikno.bizml.ru/)
 [![Docker](https://img.shields.io/badge/Docker-✓-2496ED.svg)](https://www.docker.com/)
 
-**Telegram Бот "Галактика"** — бот-визитка для компании «Галактика» (производитель молочной продукции).
+Проект демонстрирует микросервисную архитектуру, состоящую из двух независимых сервисов:
 
-## О проекте
+1. **[Telegram Bot "Галактика"](https://t.me/galaxy_milk_bot)** - Бот предоставляет информацию о компании, брендах, продукции, новостях и контактах. Все данные загружаются из JSON-файла, полученного парсингом сайта mnogomoloka.ru на русском языке.
+2. **[Веб-лендинг](https://vebfortgbot.melnikno.bizml.ru/)** – презентационная страница с карточками-ссылками на бота
 
-Проект демонстрирует **микросервисную архитектуру**, состоящую из двух независимых сервисов:
+## Возможности
 
-| Сервис | Описание |
-|--------|----------|
-| **Telegram-бот** | Предоставляет информацию о компании, брендах, продукции, новостях и контактах |
-| **Веб-лендинг** | Презентационная страница с 6 карточками-ссылками на бота, защищён HTTPS |
+- Навигация по разделам сайта
+- Информация о брендах (Свежее Завтра, Большая Кружка, Добрята, Сударыня, Тёлушка)
+- Новости компании с возможностью просмотра по номерам
+- Контактная информация
 
 ## Технологии
 
@@ -23,6 +36,8 @@
 - HTML5 + CSS3 (адаптивный дизайн)
 - Docker + Docker Compose
 - NGINX (nginx-proxy) + acme-companion (Let's Encrypt)
+
+
 
 ## Предварительные требования
 
