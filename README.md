@@ -2,9 +2,9 @@
 
 # Микросервисная архитектура Telegram-бота и веб-лендинга
 
-[Документ по курсовой работе](https://github.com/MelnikNO/applied-information-technologies3/blob/main/coursework_microservice/Мельник%20Н.О.%203к%20ИВТ%2C%20Курсовая%20работа.pdf)
+[Документ по курсовой работе](https://github.com/MelnikNO/microservice_curs3/blob/main/Мельник%20Н.О.%203к%20ИВТ%2C%20Курсовая%20работа.pdf)
 
-[Презентация](https://github.com/MelnikNO/applied-information-technologies3/blob/main/coursework_microservice/Мельник%20Н.О.%203к%20ИВТ%2C%20Курсовая%20работа%20Презентация.pptx)
+[Презентация](https://github.com/MelnikNO/microservice_curs3/blob/main/Мельник%20Н.О.%203к%20ИВТ%2C%20Курсовая%20работа%20Презентация.pptx)
 
 [Скринкаст](https://drive.google.com/file/d/1p3Shljt_1sAiJRijsno95XrKDy3Al46y/view?usp=drive_link)
 
